@@ -1,0 +1,14 @@
+dummy file
+
+to_be_replaced
+to_be_replaced
+to_be_replaced
+to_be_replaced
+to_be_replaced
+
+grep "look for this" /var/log/messages -c
+grep "look for this" /var/log/messages -c
+grep "look for this" /var/log/messages -c
+grep "look for this" /var/log/messages -c
+grep "look for this" /var/log/messages -c
+grep "look for this" /var/log/messages -c
